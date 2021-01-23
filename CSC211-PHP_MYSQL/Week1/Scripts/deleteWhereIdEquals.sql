@@ -1,0 +1,1 @@
+delete from users WHERE id=6;
