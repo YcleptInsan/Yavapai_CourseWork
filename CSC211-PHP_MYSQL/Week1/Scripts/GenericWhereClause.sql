@@ -1,0 +1,1 @@
+SELECT * FROM acme.users WHERE location='Massachusetts' AND department='sales';
