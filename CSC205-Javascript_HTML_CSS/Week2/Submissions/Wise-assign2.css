@@ -1,0 +1,65 @@
+body {
+    padding: 50px;
+    background-color: rgb(209, 201, 188);
+}
+#mainHeadStyling{
+    color: green;
+    line-height: 0.5;
+    text-align: left;
+}
+#mainHeadStyling p{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#boldedContentTitle {
+    font-weight: bold;
+    line-height: 2.0;
+}
+
+#section1 span {
+    
+    font-weight: normal;
+}
+
+#align {
+    padding-inline-start: 25px;
+}
+
+#align2 {
+    padding-left: 2.7em;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#align3 {
+    padding-left: 4.5em;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#align4 {
+    padding-left: 4.1em;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+table {
+    width: 100%;
+}
+table,th, tr{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.emailMessage {
+    color: green;
+}
+
+.Part1CourseInfo {
+    text-indent: 2em;
+    font-weight: bold;
+    
+}
